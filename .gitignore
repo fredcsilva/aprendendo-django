@@ -1,0 +1,2 @@
+# ignore virtual env
+django_code/django_env/*
